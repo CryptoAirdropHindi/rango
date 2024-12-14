@@ -6,7 +6,7 @@ const banner = `\n
 ╚██████╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝██║  ██║██║██║  ██║██████╔╝██║  ██║╚██████╔╝██║     ██║  ██║██║██║ ╚████║██████╔╝██║
  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝
                                                                                                                                        
-                    Running Oasis Ai BETA CLI Version                
+                    Running rango BETA CLI Version                
                 https://t.me/Crypto_airdropHM *** https://github.com/CryptoAirdropHindi                   \n`
 
 export default banner;
