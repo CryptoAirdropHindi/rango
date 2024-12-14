@@ -50,4 +50,9 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+# Notes
+- Run this bot, and it will update your referrer code to my invite code if you don't have one.
+- You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
+
+
 This project is licensed under the [MIT License](LICENSE).
