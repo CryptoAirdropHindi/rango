@@ -27,7 +27,7 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/rango.git
+   git clone https://github.com/CryptoAirdropHindi/rango.git
    cd rango
    ```
 2. Install dependencies:
