@@ -1,5 +1,5 @@
 # RANGO EXCHANGE AUTO BRIDGE
-![banner](assets/image-2.png)
+![banner](assets/https://github.com/user-attachments/assets/d7bd4c5e-4432-44d7-b92a-14e6ceb39770)
 
 
 # Rango
@@ -19,7 +19,8 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
 - **Node.js**: Ensure you have Node.js installed.
 - **npm**: Ensure you have npm installed.
 
-    ![banner](assets/image-1.png)
+    ![banner](assets/https://github.com/user-attachments/assets/e91ee5f5-7894-4647-99e0-03d8daa3598b)
+
 ## Setup
 
 1. Clone this repository:
@@ -35,7 +36,8 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
    ```bash
    nano config.js
    ```
-   ![CONFIG](assets/image-3.png)
+   ![CONFIG](assets/https://github.com/user-attachments/assets/bf04f9d4-9df4-4443-b6a7-8f8bd543a36f)
+
 4. Run The Script:
    ```bash
    npm run start
